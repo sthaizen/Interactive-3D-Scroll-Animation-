@@ -14,7 +14,8 @@ export function SmoothScrollProvider({ children }: Props) {
       duration: 1.2,
       smoothWheel: true,
       syncTouch: false,
-      touchMultiplier: 1.1,
+      touchMultiplier: 1.1,//i am batman 
+      
     });
     lenisRef.current = lenis;
 
